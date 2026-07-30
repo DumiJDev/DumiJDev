@@ -1,7 +1,6 @@
-name: Generate Stats
+name: Generate GitHub Stats
 
 on:
-
   schedule:
     - cron: "0 0 * * *"
 
@@ -9,7 +8,6 @@ on:
 
 
 permissions:
-
   contents: write
 
 
@@ -22,17 +20,19 @@ jobs:
 
     steps:
 
-      - uses: cicirello/user-statistician@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      - name: Generate user statistics
+        uses: cicirello/user-statistician@v1
 
         with:
+          image-file: images/userstats.svg
+          colors: dark
+          include-title: true
+          max-languages: 8
+          animated-language-chart: true
 
-          username: DumiJDev
-
-          output: github-stats.svg
-
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-
-        with:
-
-          commit_message: "chore: update github stats"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
