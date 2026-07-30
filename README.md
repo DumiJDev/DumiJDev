@@ -169,7 +169,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="[https://raw.githubusercontent.com/DumiJDev/DumiJDev/gh-pages/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
