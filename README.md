@@ -1,7 +1,3 @@
-<!-- ======================= -->
-<!--        HEADER           -->
-<!-- ======================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:24243e&height=220&section=header&text=Dumildes%20Paulo&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
@@ -11,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Ecosystem+Enthusiast;Cloud+Native+Developer;DevOps+%26+Open+Source+Explorer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Ecosystem;Cloud+Native+Developer;DevOps+Explorer;Open+Source+Enthusiast"/>
 
 </div>
 
@@ -23,19 +19,20 @@
 </div>
 
 
-<br/>
+<br>
 
 
 # 👋 Hey, I'm Dumildes Paulo
 
 ### ☕ Java Developer | Spring Ecosystem | Cloud Native | DevOps
 
+
 Building scalable software, improving developer experience and exploring modern backend architectures.
 
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 
 ```java
@@ -48,6 +45,7 @@ public final class DumildesPaulo {
     private final String location = "🇦🇴 Angola";
 
     private final String javaVersion = "Java 25";
+
 
     private final List<String> backend = List.of(
             "Spring Boot",
@@ -90,9 +88,10 @@ public final class DumildesPaulo {
 }
 ```
 
+
 ---
 
-# 🚀 Currently
+## 🚀 Currently
 
 
 - 🔭 Working with Java and Spring technologies
@@ -109,14 +108,14 @@ public final class DumildesPaulo {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,groovy,spring,hibernate,react,angular,typescript,postgres,mongodb,redis,docker,kubernetes,openshift,linux,git,githubactions,maven,gradle,idea&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,groovy,spring,hibernate,react,angular,ts,postgres,mongodb,redis,docker,kubernetes,linux,git,githubactions,maven,gradle,idea&perline=9"/>
 
 </div>
 
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 
 <div align="center">
@@ -131,12 +130,12 @@ src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border
 </div>
 
 
-<br/>
+<br>
 
 
 <div align="center">
 
-<img width="70%"
+<img width="55%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -157,7 +156,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 
 <div align="center">
@@ -175,18 +174,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
----
-
-# 📊 GitHub Metrics
-
-
-<div align="center">
-
-<img src="https://github.com/DumiJDev/DumiJDev/blob/main/github-metrics.svg"/>
 
 </div>
 
@@ -227,13 +214,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
-
-<div align="center">
-
-### "Clean code builds trust. Great architecture builds the future."
 
 </div>
 
