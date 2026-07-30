@@ -1,173 +1,245 @@
-<!-- ========================================================= -->
-<!--                       HEADER                              -->
-<!-- ========================================================= -->
+<!-- ======================= -->
+<!--        HEADER           -->
+<!-- ======================= -->
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  Hey 👋 I'm Dumildes Paulo
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:24243e&height=220&section=header&text=Dumildes%20Paulo&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">
-☕ Java 25 • Spring Ecosystem • Cloud Native • DevOps • Open Source
-</h3>
+</div>
 
-<p align="center">
-Building scalable software and learning something new every day.
-</p>
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DumiJDev&label=Visitors&style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Ecosystem+Enthusiast;Cloud+Native+Developer;DevOps+%26+Open+Source+Explorer"/>
 
-</p>
+</div>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DumiJDev&label=Profile%20Views&color=70A5FD&style=flat-square"/>
+
+</div>
+
+
+<br/>
+
+
+# 👋 Hey, I'm Dumildes Paulo
+
+### ☕ Java Developer | Spring Ecosystem | Cloud Native | DevOps
+
+Building scalable software, improving developer experience and exploring modern backend architectures.
+
 
 ---
 
 # 👨‍💻 About Me
 
+
 ```java
+import java.util.List;
+
 public final class DumildesPaulo {
 
     private final String role = "Software Engineer";
 
     private final String location = "🇦🇴 Angola";
 
-    private final String language = "Java 25";
+    private final String javaVersion = "Java 25";
 
-    private final String[] backend = {
+    private final List<String> backend = List.of(
             "Spring Boot",
             "Spring Security",
             "Spring Modulith",
             "Hibernate",
             "JPA"
-    };
+    );
 
-    private final String[] frontend = {
+
+    private final List<String> frontend = List.of(
             "React",
             "Angular",
             "Vaadin",
             "Hilla"
-    };
+    );
 
-    private final String[] cloud = {
+
+    private final List<String> cloud = List.of(
             "Docker",
             "Kubernetes",
             "OpenShift"
-    };
+    );
 
-    private final String[] databases = {
+
+    private final List<String> databases = List.of(
             "PostgreSQL",
             "MongoDB",
             "Redis"
-    };
+    );
 
-    private final String[] tools = {
-            "Git",
-            "GitHub Actions",
-            "Azure DevOps",
-            "Maven",
-            "Gradle"
-    };
 
     public String currentFocus() {
         return """
-                Designing scalable APIs,
-                improving developer experience
-                and building clean architectures.
-                """;
+            Building reliable systems,
+            learning continuously,
+            and writing better software.
+            """;
     }
 }
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently
 
-- 🔭 Building scalable backend applications
-- 🌱 Learning Platform Engineering
-- ☁️ Improving Kubernetes & OpenShift skills
-- 💬 Ask me about Java, Spring Boot, Architecture and DevOps
-- ⚡ Fun fact: Every bug eventually becomes documentation.
 
----
+- 🔭 Working with Java and Spring technologies
+- 🌱 Exploring Kubernetes, OpenShift and Platform Engineering
+- 🧠 Interested in Software Architecture and Developer Experience
+- 💬 Ask me about Java, Spring Boot, APIs, DevOps and Cloud Native
+- ⚡ Fun fact: Every bug is a future lesson
 
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,groovy,spring,hibernate,react,angular,ts,postgres,mongodb,redis,docker,kubernetes,linux,git,githubactions,maven,gradle,idea&perline=9"/>
-
-</p>
 
 ---
 
-# 📈 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
 
-<img width="49%"
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,groovy,spring,hibernate,react,angular,typescript,postgres,mongodb,redis,docker,kubernetes,openshift,linux,git,githubactions,maven,gradle,idea&perline=9"/>
+
+</div>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img height="180"
 src="https://github-readme-stats.vercel.app/api?username=DumiJDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%"
+
+<img height="180"
 src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
 
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night"/>
+<br/>
 
-</p>
 
----
+<div align="center">
 
-# 📚 Most Used Languages
-
-<p align="center">
-
-<img width="55%"
+<img width="70%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
 
 ---
 
-# 🌎 Connect with me
+# 📈 Contribution Activity
 
-<p align="center">
+
+<div align="center">
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🏆 Achievements
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DumiJDev&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# 📊 GitHub Metrics
+
+
+<div align="center">
+
+<img src="https://github.com/DumiJDev/DumiJDev/blob/main/github-metrics.svg"/>
+
+</div>
+
+
+---
+
+# 🌎 Connect With Me
+
+
+<div align="center">
+
 
 <a href="mailto:dumi703@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
 <a href="https://github.com/DumiJDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 
 <a href="https://www.linkedin.com/in/dumildesfernando">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <a href="https://www.facebook.com/dumildespaulo.fernando.1">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-</p>
+
+</div>
+
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
 
-</p>
+</div>
 
----
 
-<p align="center">
-<i>"Clean code is good. Clean architecture is better."</i>
-</p>
+<div align="center">
+
+### "Clean code builds trust. Great architecture builds the future."
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:141321&height=120&section=footer"/>
+
+</div>
