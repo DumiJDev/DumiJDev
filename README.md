@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:24243e&height=220&section=header&text=Dumildes%20Paulo&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:24243e&height=220&section=header&text=Dumildes%20Paulo&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Ecosystem;Cloud+Native+Developer;DevOps+Explorer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Ecosystem;Cloud+Native;DevOps+Explorer;Open+Source+Enthusiast"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DumiJDev&label=Profile%20Views&color=70A5FD&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=DumiJDev&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
@@ -24,10 +24,11 @@
 
 # 👋 Hey, I'm Dumildes Paulo
 
+
 ### ☕ Java Developer | Spring Ecosystem | Cloud Native | DevOps
 
 
-Building scalable software, improving developer experience and exploring modern backend architectures.
+I build scalable software, explore modern architectures and enjoy improving developer experience.
 
 
 ---
@@ -44,7 +45,7 @@ public final class DumildesPaulo {
 
     private final String location = "🇦🇴 Angola";
 
-    private final String javaVersion = "Java 25";
+    private final String java = "Java 25";
 
 
     private final List<String> backend = List.of(
@@ -71,23 +72,16 @@ public final class DumildesPaulo {
     );
 
 
-    private final List<String> databases = List.of(
-            "PostgreSQL",
-            "MongoDB",
-            "Redis"
-    );
+    public String focus() {
 
-
-    public String currentFocus() {
         return """
             Building reliable systems,
-            learning continuously,
-            and writing better software.
+            clean architectures
+            and developer-friendly platforms.
             """;
     }
 }
 ```
-
 
 ---
 
@@ -97,13 +91,13 @@ public final class DumildesPaulo {
 - 🔭 Working with Java and Spring technologies
 - 🌱 Exploring Kubernetes, OpenShift and Platform Engineering
 - 🧠 Interested in Software Architecture and Developer Experience
-- 💬 Ask me about Java, Spring Boot, APIs, DevOps and Cloud Native
+- 💬 Ask me about Java, Spring Boot, APIs and DevOps
 - ⚡ Fun fact: Every bug is a future lesson
 
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 <div align="center">
@@ -120,12 +114,14 @@ public final class DumildesPaulo {
 
 <div align="center">
 
+
 <img height="180"
 src="https://github-readme-stats.vercel.app/api?username=DumiJDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 
 <img height="180"
 src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
@@ -135,7 +131,7 @@ src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border
 
 <div align="center">
 
-<img width="55%"
+<img width="60%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -143,20 +139,20 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&lay
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Activity
 
 
 <div align="center">
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night"/>
 
 </div>
 
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 
 <div align="center">
@@ -180,7 +176,19 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 
 ---
 
-# 🌎 Connect With Me
+# 📊 GitHub Metrics
+
+
+<div align="center">
+
+<img src="./github-metrics.svg"/>
+
+</div>
+
+
+---
+
+# 🌎 Connect
 
 
 <div align="center">
@@ -192,17 +200,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 
 
 <a href="https://github.com/DumiJDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 
 <a href="https://www.linkedin.com/in/dumildesfernando">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 
 <a href="https://www.facebook.com/dumildespaulo.fernando.1">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
 
 
