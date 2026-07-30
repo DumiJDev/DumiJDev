@@ -113,16 +113,7 @@ public final class DumildesPaulo {
 
 
 <div align="center">
-
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=DumiJDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-
-<img height="180"
-src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border=true"/>
-
-
+<img height="180" src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border=true"/>
 </div>
 
 
@@ -130,10 +121,7 @@ src="https://streak-stats.demolab.com?user=DumiJDev&theme=tokyonight&hide_border
 
 
 <div align="center">
-
-<img width="60%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="./github-stats.svg"/>
 </div>
 
 
@@ -144,20 +132,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumiJDev&lay
 
 <div align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&theme=tokyo-night"/>
 
 </div>
 
 
 ---
 
-# 🏆 Achievements
-
+## 🏆 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DumiJDev&theme=tokyonight&no-frame=true&row=1"/>
+⭐ Open Source  
+🚀 Building Projects  
+☕ Java Ecosystem  
+🌱 Continuous Learning  
 
 </div>
 
@@ -169,7 +158,22 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DumiJDev&the
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/DumiJDev/DumiJDev/gh-pages/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake.svg">
+
+
+<img
+alt="github contribution snake"
+src="https://raw.githubusercontent.com/DumiJDev/DumiJDev/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 </div>
 
