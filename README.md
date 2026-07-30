@@ -117,14 +117,6 @@ public final class DumildesPaulo {
 </div>
 
 
-<br>
-
-
-<div align="center">
-<img src="./github-stats.svg"/>
-</div>
-
-
 ---
 
 # 📈 Activity
