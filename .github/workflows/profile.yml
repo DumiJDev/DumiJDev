@@ -1,0 +1,53 @@
+name: Update Profile
+
+
+on:
+
+  schedule:
+
+    - cron: "0 */6 * * *"
+
+
+  workflow_dispatch:
+
+
+
+permissions:
+
+  contents: write
+
+
+
+jobs:
+
+  update:
+
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+
+
+      - name: Update profile timestamp
+
+        run: |
+
+          echo "" >> README.md
+
+          echo "<!-- Updated automatically $(date -u) -->" >> README.md
+
+
+
+      - name: Commit changes
+
+        uses: stefanzweifel/git-auto-commit-action@v5
+
+        with:
+
+          commit_message: "chore: update profile"
